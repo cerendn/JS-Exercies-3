@@ -23,3 +23,9 @@ WithDrawMoney(account1,5500)
 WithDrawMoney(account2,4500)
 
 
+const account2 = {
+    name :"Lily Sharper",
+    banknumber : "987654",
+    balance : 6000,
+}
+
