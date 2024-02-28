@@ -23,15 +23,6 @@ WithDrawMoney(account1,5500)
 WithDrawMoney(account2,4500)
 
 
-const account3 = {
-    name :"Lily Sharper",
-    banknumber : "987654",
-    balance : 5000,
-}
-const account4 = {
-    name :"Lil Sharper",
-    banknumber : "987654",
-    balance : 5000,
-}
+
 
 
